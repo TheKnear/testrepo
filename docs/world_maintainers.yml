@@ -1,0 +1,12 @@
+files:
+  "worlds/knear/**":
+    - TheKnear
+  "worlds/phar/**":
+    - ThePhar
+
+options:
+  ignore_draft: true
+  ignored_keywords:
+    - DO NOT REVIEW
+  enable_group_assignment: false
+  last_files_match_only: true
